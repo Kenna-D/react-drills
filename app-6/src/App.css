@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.MakeList{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  /* text-align: center; */
+  align-items: center;
 }
